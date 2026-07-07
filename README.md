@@ -52,6 +52,7 @@ This project turns that raw data into a diagnostic: who is at risk, what drives 
 
 | File | Description |
 |---|---|
+| `Faith_Hospital_Executive_Summary.docx` | A 2-page executive summary |
 | `Faith_Hospital_Dama_Documentation.docx` | Full project documentation with detailed methodology and findings |
 | `Faith_Hospital_Dama_Query.sql` | SQL queries used for the DAMA and mortality analysis |
 
